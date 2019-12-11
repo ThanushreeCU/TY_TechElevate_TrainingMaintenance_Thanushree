@@ -45,12 +45,11 @@ body{
 }
 
 .form-group.col-md-6.ty-font.user-input-wrp {
-    left: 10px;
+    right: 10px;
 }
 
 .col-md-6.ty-font.left.user-input-wrp {
-    left: 10px; 
-    
+    left: 10px;
 }
 
 .ty-editOption {
@@ -110,7 +109,7 @@ input, select {
 
 .user-input-wrp .inputText:focus {
     border-width: medium medium 2px;
-}
+}kks
 
 .user-input-wrp .floating-label {
     position: absolute;
