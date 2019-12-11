@@ -45,12 +45,12 @@ body{
 }
 
 .form-group.col-md-6.ty-font.user-input-wrp {
-    left: -65px;
+    left: 10px;
 }
 
 .col-md-6.ty-font.left.user-input-wrp {
-    /* left: 10px; */
-    left: -30px;
+    left: 10px; 
+    
 }
 
 .ty-editOption {
