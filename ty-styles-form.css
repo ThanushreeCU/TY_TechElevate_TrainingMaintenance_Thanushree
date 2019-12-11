@@ -1,5 +1,34 @@
+
+/* responsive */
+
+@media (max-width:767px)
+{
+
+    .ty-font.heading{
+display: none;
+    }
+    .card.card-body.col-md-4.offset-4.mt-5 {
+        width: 358px;
+        right: 119px;position: relative;
+    }
+    .user-input-wrp .inputText {
+        width: 100%;
+        outline: none;
+        border: none;
+        border-bottom: 1px solid #777;
+        box-shadow: none !important;
+    }
+   
+
+}
+
 body{
     font-family: 'Titillium Web', sans-serif;
+}
+.form-control {
+   
+    padding: .0rem .0rem;
+   
 }
 
 .ty-font.heading {
@@ -16,11 +45,12 @@ body{
 }
 
 .form-group.col-md-6.ty-font.user-input-wrp {
-    right: 10px;
+    left: -65px;
 }
 
 .col-md-6.ty-font.left.user-input-wrp {
-    left: 10px;
+    /* left: 10px; */
+    left: -30px;
 }
 
 .ty-editOption {
