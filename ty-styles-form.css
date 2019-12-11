@@ -109,7 +109,7 @@ input, select {
 
 .user-input-wrp .inputText:focus {
     border-width: medium medium 2px;
-}kks
+}
 
 .user-input-wrp .floating-label {
     position: absolute;
