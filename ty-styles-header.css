@@ -1,6 +1,6 @@
 
 
-.navbar.navbar-expand-md.new-bg.navbar-dark {
+nav {
   width: 100%;
   font-family: 'Titillium Web', sans-serif;
 
@@ -95,7 +95,7 @@ i.fab.fa-instagram {
   color: #263248;
 }
 
-body {
+/* body {
   margin: 0;
   padding: 0;
   font-family: ProximaNova, Helvetica, sans-serif;
@@ -104,7 +104,7 @@ body {
   line-height: 21px;
   font-size: 16px;
   letter-spacing: .05em;
-}
+} */
 
 * {
   box-sizing: border-box;
